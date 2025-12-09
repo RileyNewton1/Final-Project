@@ -1,0 +1,15 @@
+---
+title: "research-topics"
+format: html
+editor: visual
+---
+
+## Statistics Final Project IdeasStatistics Final Project Ideas
+
+Comparing life expectancies of men and women across a region (ex. South American Countries or US States) ✓
+
+Comparing education quality across US states
+
+Comparing GDP and education quality across a region
+
+Comparing job opportunities with different college majors
